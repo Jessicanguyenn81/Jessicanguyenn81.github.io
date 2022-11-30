@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Jessica Nguyen
-banner_subtitle: A Full-Stack Mern Software Engineer
+banner_subtitle: Junior Full-Stack MERN Software Engineer
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
