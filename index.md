@@ -21,8 +21,8 @@ linkedin: jessicanguyennn # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/Jessicanguyenn81 # the link
-about_button_label: get hello # the label on the button
+about_button: https://www.linkedin.com/in/jessicanguyennn/ # the link
+about_button_label: Say Hi on LinkedIn # the label on the button
 
 # optional portfolio section ------------------------------------------
 
