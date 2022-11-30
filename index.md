@@ -41,16 +41,11 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+### hi, i'm **Jessica** welcome to my portfolio 
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+### **Junior Full-Stack Developer** .  
   
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
+I like to code and help build tools and sites that will **make a difference** 
   
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+I am a purpose-driven software engineer who thrives on helping others and creating a positive environment for those around me. I love working with a team and collaborating together around a common goal for optimal program development. With my previous experience in the mortgage industry, I have a strong foundation in achieving results, and quick problem-solving to build solutions for stakeholders and consumers. I am passionate about making a difference and I look forward to designing products that are both inclusive and meaningful. 

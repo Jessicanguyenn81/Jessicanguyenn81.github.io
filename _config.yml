@@ -5,7 +5,7 @@ title: Jessica Nguyen
 author: Jessica Nguyen
 description: > 
   A Full-Stack Mern Software Engineer
-baseurl: ""
+baseurl: "https://jessicanguyenn81.github.io/"
 
 plugins:
   - jekyll-feed
