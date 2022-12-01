@@ -43,7 +43,7 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### hi, i'm **Jessica** welcome to my portfolio 
 
-### **Junior Full-Stack Developer** .  
+### **Junior Software Engineer Developer** .  
   
 I like to code and help build tools and sites that will **make a difference** 
   
